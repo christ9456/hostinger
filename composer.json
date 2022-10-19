@@ -1,0 +1,9 @@
+{
+    "name": "eldee/php",
+    "authors": [
+        {
+            "name": "brian"
+        }
+    ],
+    "require": {}
+}
